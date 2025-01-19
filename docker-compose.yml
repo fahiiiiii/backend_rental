@@ -1,0 +1,27 @@
+# docker-compose.yml:
+# version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_USER=fahimah
+      - DB_PASSWORD=fahimah123
+      - DB_NAME=rental_db
+    depends_on:
+      - db
+
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: fahimah
+      POSTGRES_PASSWORD: fahimah123
+      POSTGRES_DB: rental_db
+    ports:
+      - "5432:5432"
+
