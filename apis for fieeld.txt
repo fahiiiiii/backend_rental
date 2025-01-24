@@ -1,0 +1,522 @@
+#Location Table:
+#Rental Property Table 
+
+
+*Property name,city name,
+=>curl --request GET \
+	--url 'https://booking-com18.p.rapidapi.com/stays/auto-complete?query=The%20Marine' \
+	--header 'x-rapidapi-host: booking-com18.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 3426928f2amsh2e4d4b598c36eefp10e72ajsn894381081bec'
+   
+data:0:b_max_los_data:
+city_ufi:-2611649
+**city_name:"Whitstable"**
+label:"The Marine, Whitstable, Kent, United Kingdom"
+timezone:"Europe/London"
+image_url:"https://cf.bstatic.com/xdata/images/hotel/150x150/65513252.jpg?k=358c36937dba9fc6971fc6118d53505caf609775147d75e841e33095334cdae4&o="
+roundtrip:"GhAxYTI0NTM1ZTUwOWEwM2NjIAAoATICZW46ClRoZSBNYXJpbmVAAEoAUAA="
+type:"ho"
+region:"Kent"
+dest_type:"hotel"
+dest_id:"150008"
+latitude:51.364525
+hotels:1
+longitude:1.0434061
+**name:"The Marine"**
+rtl:0
+nr_hotels:1
+country:"United Kingdom"
+lc:"en"
+cc1:"gb"
+id:"eyJjaXR5X25hbWUiOiJXaGl0c3RhYmxlIiwiY291bnRyeSI6IlVuaXRlZCBLaW5nZG9tIiwiZGVzdF9pZCI6IjE1MDAwOCIsImRlc3RfdHlwZSI6ImhvdGVsIn0="
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Rental Property Table 
+
+*bedroom
+from curl --request GET \
+	--url 'https://booking-com18.p.rapidapi.com/stays/room-list?hotelId=56166&checkinDate=2025-01-09&checkoutDate=2025-01-23&units=metric' \
+	--header 'x-rapidapi-host: booking-com18.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 3426928f2amsh2e4d4b598c36eefp10e72ajsn894381081bec'
+
+
+data:cancellation_policies:
+min_room_distribution:
+cc_required:"1"
+direct_payment:
+cheapest_avail_price_eur:2587.72
+payment_detail:
+is_exclusive:0
+block:0:paymentterms:
+is_mobile_deal:0
+pod_ios_migrate_policies_to_smp_fullon:0
+**number_of_bathrooms:0**
+**room_count:4**
+all_inclusive:0
+babycots_available:0
+breakfast_included:0
+extrabed_available:0
+is_block_fit:1
+max_children_free:1
+room_name:"Standard Queen Room"
+room_surface_in_feet2:247.5699392
+is_dormitory:0
+is_temp_charge_enabled:0
+policy_display_details:
+genius_discount_percentage:0
+nr_adults:2
+is_genius_deal:null
+mealplan:"There is no meal option with this room."
+half_board:0
+dinner_included:0
+extrabed_available_amount:null
+is_domestic_rate:0
+roomtype_id:9
+detail_mealplan:
+is_last_minute_deal:0
+is_flash_deal:0
+block_text:
+refundable_until:""
+pay_in_advance:1
+name:"Standard Queen Room"
+babycots_available_amount:null
+refundable:0
+must_reserve_free_parking:0
+transactional_policy_data:
+children_ages:
+package_id:0
+nr_children:"0"
+deposit_required:1
+product_price_breakdown:
+can_reserve_free_parking:0
+b_bsb_campaigns:
+name_without_policy:"Standard Queen Room"
+room_surface_in_m2:23
+is_smart_deal:0
+smoking:0
+room_id:5616601
+block_id:"5616601_371662184_2_0_0"
+lunch_included:0
+max_children_free_age:1
+max_occupancy:"2"
+full_board:0
+bh_room_highlights:
+1:
+2:
+3:
+4:
+preferences:
+property_policy_display_details:
+prepayment_policies:
+duplicate_rates_removed:0
+recommended_block_title:"Recommended for 1 adult"
+b_blackout_android_prepayment_copy:0
+hotel_id:56166
+rooms:
+use_new_bui_icon_highlight:0
+arrival_date:"2025-01-09"
+max_rooms_in_reservation:10
+b_max_los_data:
+room_recommendation:
+tax_exceptions:
+qualifies_for_no_cc_reservation:0
+
+
+
+
+
+
+*room_name,room_count
+
+data:cancellation_policies:
+min_room_distribution:
+cc_required:"1"
+direct_payment:
+cheapest_avail_price_eur:2587.72
+payment_detail:
+is_exclusive:0
+block:0:paymentterms:
+is_mobile_deal:0
+pod_ios_migrate_policies_to_smp_fullon:0
+    **number_of_bathrooms:0**
+room_count:4
+all_inclusive:0
+babycots_available:0
+breakfast_included:0
+extrabed_available:0
+is_block_fit:1
+max_children_free:1
+room_name:"Standard Queen Room"
+room_surface_in_feet2:247.5699392
+is_dormitory:0
+is_temp_charge_enabled:0
+policy_display_details:
+genius_discount_percentage:0
+nr_adults:2
+is_genius_deal:null
+mealplan:"There is no meal option with this room."
+half_board:0
+dinner_included:0
+extrabed_available_amount:null
+is_domestic_rate:0
+roomtype_id:9
+detail_mealplan:
+is_last_minute_deal:0
+is_flash_deal:0
+block_text:
+refundable_until:""
+pay_in_advance:1
+name:"Standard Queen Room"
+babycots_available_amount:null
+refundable:0
+must_reserve_free_parking:0
+transactional_policy_data:
+children_ages:
+package_id:0
+nr_children:"0"
+deposit_required:1
+product_price_breakdown:
+can_reserve_free_parking:0
+b_bsb_campaigns:0:
+name_without_policy:"Standard Queen Room"
+room_surface_in_m2:23
+is_smart_deal:0
+smoking:0
+room_id:5616601
+block_id:"5616601_371662184_2_0_0"
+lunch_included:0
+max_children_free_age:1
+max_occupancy:"2"
+full_board:0
+bh_room_highlights:
+1:
+room_id:5616622
+block_id:"5616622_371662184_2_0_0"
+lunch_included:0
+smoking:0
+max_children_free_age:0
+full_board:0
+max_occupancy:"2"
+bh_room_highlights:
+transactional_policy_data:policies:
+booking_conditions:
+applied_products:
+children_ages:
+package_id:0
+nr_children:"0"
+must_reserve_free_parking:0
+is_smart_deal:0
+deposit_required:1
+can_reserve_free_parking:0
+product_price_breakdown:
+b_bsb_campaigns:
+name_without_policy:"Deluxe King Room"
+dinner_included:0
+nr_adults:2
+is_genius_deal:null
+mealplan:"There is no meal option with this room."
+half_board:0
+name:"Deluxe King Room"
+pay_in_advance:1
+refundable_until:""
+babycots_available_amount:null
+refundable:0
+extrabed_available_amount:null
+roomtype_id:9
+detail_mealplan:
+is_domestic_rate:0
+is_flash_deal:0
+block_text:
+is_last_minute_deal:0
+pod_ios_migrate_policies_to_smp_fullon:0
+**number_of_bathrooms:0**
+all_inclusive:0
+room_count:10
+paymentterms:
+is_mobile_deal:0
+max_children_free:0
+room_name:"Deluxe King Room"
+is_temp_charge_enabled:0
+is_dormitory:0
+genius_discount_percentage:0
+policy_display_details:
+babycots_available:0
+breakfast_included:0
+is_block_fit:1
+extrabed_available:0
+
+
+
+
+
+
+
+
+
+
+*Name,type,bedroom ,bathroom,amenities
+=>curl --request GET \
+	--url 'https://booking-com18.p.rapidapi.com/stays/detail?hotelId=56166&checkinDate=2025-01-09&checkoutDate=2025-01-23&units=metric' \
+	--header 'x-rapidapi-host: booking-com18.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 3426928f2amsh2e4d4b598c36eefp10e72ajsn894381081bec'
+data:
+max_rooms_in_reservation:10
+payment_product:"exclusive"
+request_to_book_required:""
+use_new_bui_icon_highlight:0
+class_is_estimated:0
+is_preferred_plus:0
+recommended_block_title:"Recommended for 1 adult"
+is_single_unit_vr:1
+composite_price_breakdown:
+direct_payment:
+qualifies_for_no_cc_reservation:0
+is_cpv2_property:1
+arrival_date:"2025-01-09"
+booking_home:
+rare_find_state:"NOT_RARE"
+check_only_x_left:1
+hotel_facilities:"160,485,161,47,109,467,450,468,163,96,2,108,449,107,466,454,46,484,486"
+min_room_distribution:
+is_family_friendly:0
+available_rooms:1
+district:""
+property_highlight_strip_saba:
+b_legal_use_neutral_color_for_persuasion_legal:0
+cc_required:"1"
+wl_dest_id:"city::-575853"
+spoken_languages:
+rooms:1317108901:
+description:"Guests will have a special experience as the villa features a fireplace. In the fully equipped kitchen, guests will find a stovetop, a refrigerator, a dishwasher and kitchenware. The air-conditioned villa provides a flat-screen TV, a washing machine, a private entrance, a tea and coffee maker as well as garden views. The unit offers 4 beds."
+private_bathroom_highlight:
+has_highlight:0
+children_and_beds_text:
+highlights:
+facilities:
+bed_configurations:0:
+    **private_bathroom_count:0**->bathroom
+apartment_configuration:
+photos:
+longitude:-78.97674
+ufi:-575853
+room_recommendation:
+address_required:0
+mobile_discount_percentage:10
+total_blocks:2
+host_since:null
+b_blackout_android_prepayment_copy:0
+payment_detail:
+**block_count:2**
+address_trans:""
+is_crimea:0
+is_city_center:null
+family_facilities:
+timezone:"America/Toronto"
+is_damage_deposit_by_booking:1
+is_preferred:0
+aggregated_data:
+tax_exceptions:
+is_closed:0
+seen_cc_app_hp_missing_info:0
+default_wishlist_name:"Whitby"
+city_name_en:"Whitby"
+accommodation_type:213
+hotel_include_breakfast:0
+facilities_block:
+type:"popular"
+name:"Most Popular Facilities"
+facilities:0:
+    **name:"Free Wifi"**->amenities
+icon:"wifi"
+1:
+icon:"parking_sign"
+   **name:"Free parking"**->amenities
+2:
+3:
+languages_spoken:
+countrycode:"ca"
+cvc_required:"1"
+block:
+cc1:"ca"
+zip:"L1P 0H9"
+currency_code:"CAD"
+city_in_trans:"in Whitby"
+distance_to_cc:3.65931388385069
+only_x_left:
+plq_sensitivity:""
+    **hotel_id:13171089** the previously dest_id will be used here 
+country_trans:"Canada"
+seen_cc_app_rp_missing_fac:0
+is_tpi_exclusive_property:0
+departure_date:"2025-01-23"
+city_trans:"Whitby"
+is_hotel_ctrip:0
+host_profile:null
+property_highlight_strip:
+preferences:
+soldout:0
+b_max_los_data:
+cant_book:0
+property_policy_display_details:
+breakfast_review_score:
+    **accommodation_type_name:"Villas"**->type 
+host_name:
+    hotel_name:"Vacational amenities"
+url:"https://www.booking.com/hotel/ca/vacational-amenities.html"
+b_sca_flow_property_user_ip:0
+district_id:0
+hotel_address_line:"27 Windflower Way, L1P 0H9 Whitby, Canada"
+last_reservation:
+is_eligible_for_horizontal_scroll:1
+urgency_room_string:"Two-Bedroom Villa"
+hotel_text:
+address:"27 Windflower Way"
+review_nr:2
+city:"Whitby"
+districts:
+default_language:"en-gb"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Property Details Table 
+
+*description
+=>from 
+    curl --request GET \
+	--url 'https://booking-com18.p.rapidapi.com/stays/get-description?hotelId=2291137' \
+	--header 'x-rapidapi-host: booking-com18.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 3426928f2amsh2e4d4b598c36eefp10e72ajsn894381081bec'
+
+data:0:
+descriptiontype_id:6
+    **description:"Located in Downtown Manhattan, 
+    the Hilton Garden Inn NYC Financial Center/Manhattan 
+    Downtown is 1585 feet from Wall Street and the 
+    Charging Bull. Battery Park is 528 feet away. 
+    Each room in this Manhattan hotel features a TV, a mini-refrigerator, 
+    a coffee maker and a laptop -sized safe. 
+    Desks are also provided. Guests at this Hilton Garden Inn
+     will be able to enjoy breakfast, lunch 
+     and dinner at the Garden Grille & Bar. The Pavilion Pantry is the onsite 
+     24-hour convenience store. Guests will also have access to the 24-hour fitness center and 24-hour business center. The Bowling Green subway station is 1056 feet away while the South Ferry subway station 
+     is 394 feet away. Newark International Airport is 16 mi from the property."**->description
+languagecode:"xu"
+1:
+description:"Minimum check-in age is 21. A $50 per day incidental hold is taken at check-in."
+extra_lines:
+descriptiontype_id:7
+languagecode:"xu"
+status:true
+message:"Successful"
+
+
+
+
+
+*images
+
+=>from
+    curl --request GET \
+	--url 'https://booking-com18.p.rapidapi.com/stays/get-photos?hotelId=2291137' \
+	--header 'x-rapidapi-host: booking-com18.p.rapidapi.com' \
+	--header 'x-rapidapi-key: 3426928f2amsh2e4d4b598c36eefp10e72ajsn894381081bec'
+
+data:
+__typename:"hoteldescriptionphotosResults"
+data:2291137:0:
+0:1
+1:
+2:484656765
+3:0:
+id:3
+**tag:"Property building" ->image type
+1:
+id:1000000001
+tag:"Property"
+**4:->images by type
+    0:"/xdata/images/hotel/square60/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    1:"/xdata/images/hotel/max1024x768/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    2:"/xdata/images/hotel/max100/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    3:"/xdata/images/hotel/max200/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    4:"/xdata/images/hotel/max300/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    5:"/xdata/images/hotel/max400/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    6:"/xdata/images/hotel/max500/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    7:"/xdata/images/hotel/max600/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    8:"/xdata/images/hotel/max700/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    9:"/xdata/images/hotel/max800/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    10:"/xdata/images/hotel/max900/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    11:"/xdata/images/hotel/max1000/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    12:"/xdata/images/hotel/max1100/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    13:"/xdata/images/hotel/max1200/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    14:"/xdata/images/hotel/max1300/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    15:"/xdata/images/hotel/max1400/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    16:"/xdata/images/hotel/max1500/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    17:"/xdata/images/hotel/max1600/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    18:"/xdata/images/hotel/max1700/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    19:"/xdata/images/hotel/max1800/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    20:"/xdata/images/hotel/max1900/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    21:"/xdata/images/hotel/max2000/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    22:"/xdata/images/hotel/max2100/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    23:"/xdata/images/hotel/max2200/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    24:"/xdata/images/hotel/max2300/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    25:"/xdata/images/hotel/max2400/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    26:"/xdata/images/hotel/max2500/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    27:"/xdata/images/hotel/max2600/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    28:"/xdata/images/hotel/max2700/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    29:"/xdata/images/hotel/max2800/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    30:"/xdata/images/hotel/max2900/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+    31:"/xdata/images/hotel/max3000/484656765.jpg?k=aaa04cb98edd1c367ceb4bca7b73867d501154a2ea4f3ef39a3ddcfeeb1e8fe8&o="
+1:....
+2...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

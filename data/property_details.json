@@ -1,0 +1,187 @@
+[
+    {
+        "hotel_id": 3226748,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 70,
+        "bathrooms": 70,
+        "amenities": [
+            "Non-smoking rooms",
+            "Restaurant",
+            "Wifi in all areas",
+            "Private Parking",
+            "Parking on site",
+            "Family rooms",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 9367966,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "Wifi in all areas",
+            "Private Parking",
+            "Parking on site",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 26263,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "amenities": [
+            "Non-smoking rooms",
+            "Restaurant",
+            "Wifi in all areas",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 1926560,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 36,
+        "bathrooms": 36,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Wifi in all areas",
+            "Free Wifi",
+            "Parking"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 7060204,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 32,
+        "bathrooms": 32,
+        "amenities": [
+            "1 swimming pool",
+            "Non-smoking rooms",
+            "Fitness center",
+            "Room service",
+            "Restaurant",
+            "Wifi in all areas",
+            "Free Wifi",
+            "Parking"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 2593669,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hostels",
+        "bedrooms": 22,
+        "bathrooms": 22,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "Wifi in all areas",
+            "Private Parking",
+            "Parking on site",
+            "Family rooms",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 2570375,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 12,
+        "bathrooms": 12,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Wifi in all areas",
+            "Private Parking",
+            "Parking on site",
+            "Family rooms",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 171124,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 11,
+        "bathrooms": 11,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Restaurant",
+            "Wifi in all areas",
+            "Private Parking",
+            "Family rooms",
+            "Free Wifi",
+            "Parking"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 1324648,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hostels",
+        "bedrooms": 20,
+        "bathrooms": 20,
+        "amenities": [
+            "Non-smoking rooms",
+            "Facilities for disabled guests",
+            "Family rooms",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    },
+    {
+        "hotel_id": 7886254,
+        "city_id": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "property_type": "Hotels",
+        "bedrooms": 45,
+        "bathrooms": 45,
+        "amenities": [
+            "Non-smoking rooms",
+            "Fitness center",
+            "Wifi in all areas",
+            "Private Parking",
+            "Parking on site",
+            "Family rooms",
+            "Free Wifi"
+        ],
+        "description": "",
+        "address": "",
+        "hotel_name": ""
+    }
+]

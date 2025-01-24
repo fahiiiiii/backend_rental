@@ -18,7 +18,7 @@ func NewApiClient() *ApiClient {
 		BaseURL: "https://booking-com18.p.rapidapi.com/stays/auto-complete",
 		Headers: map[string]string{
 			"x-rapidapi-host": "booking-com18.p.rapidapi.com",
-			"x-rapidapi-key":  "d331a74390msh5ef004857f77ed7p133e3ejsn0ae0b7a6a96c",
+			"x-rapidapi-key":  "8f5980eca4msh503c5be29a9de3ap1c7562jsn69ea6839b6b6",
 		},
 	}
 }
