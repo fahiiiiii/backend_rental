@@ -1,3 +1,14 @@
+for PropertyDetails table ,
+
+    from property_desc_image.json →id ,description,
+
+    from properties.json →reviewScore,reviewCount,reviewScoreWord,id
+
+    from property_images.json →id,image_type,image_urls
+
+
+
+
 #Location Table:
 #Rental Property Table 
 

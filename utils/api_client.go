@@ -5,6 +5,9 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"strings"
+
+	"github.com/beego/beego/v2/core/config"
 	"backend_rental/models"
 )
 
@@ -14,11 +17,25 @@ type ApiClient struct {
 }
 
 func NewApiClient() *ApiClient {
+	// Use Beego's configuration to get RapidAPI key
+	conf, err := config.NewConfig("ini", "conf/app.conf")
+	if err != nil {
+		fmt.Printf("Error reading configuration: %v\n", err)
+		return nil
+	}
+
+	// Get the RapidAPI key, case-insensitive
+	apiKey, err := conf.String("RAPIDAPI_KEY")
+	if err != nil || apiKey == "" {
+		fmt.Printf("Warning: RapidAPI key not found or is empty\n")
+		apiKey = "default_key_if_needed"
+	}
+
 	return &ApiClient{
 		BaseURL: "https://booking-com18.p.rapidapi.com/stays/auto-complete",
 		Headers: map[string]string{
 			"x-rapidapi-host": "booking-com18.p.rapidapi.com",
-			"x-rapidapi-key":  "8f5980eca4msh503c5be29a9de3ap1c7562jsn69ea6839b6b6",
+			"x-rapidapi-key":  strings.TrimSpace(apiKey),
 		},
 	}
 }

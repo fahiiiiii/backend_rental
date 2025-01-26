@@ -1,9 +1,13 @@
 [
  {
-  "property_id": 3226748,
-  "property_name": "3226748",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 3226748,
+  "description": "Located in Amsterdam, a 14-minute walk from A'DAM Lookout, Bunk Hotel Amsterdam provides accommodations with a terrace, private parking, a restaurant and a bar. With free WiFi, this 3-star hotel offers a 24-hour front desk and a concierge service. Guests can have a drink at the snack bar.\n\nGuests at the hotel can enjoy an à la carte breakfast.\n\nThe area is popular for cycling, and bike rental is available at Bunk Hotel Amsterdam.\n\nRembrandt House is 2.8 miles from the accommodation, while Dutch National Opera \u0026 Ballet is 2.8 miles away. Schiphol Airport is 13 miles from the property.",
+  "reviewScore": 8.5,
+  "reviewCount": 6487,
+  "reviewScoreWord": "Very Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -53,29 +57,14 @@
   ]
  },
  {
-  "property_id": 3226748,
-  "property_name": "3226748",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 9367966,
-  "property_name": "9367966",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 9367966,
+  "description": "Located in Amsterdam, 3 miles from RAI Amsterdam, Hotel Jansen Amsterdam Bajeskwartier provides accommodations with a shared lounge, private parking, a terrace and a restaurant. Among the facilities at this property are a shared kitchen and a 24-hour front desk, along with free WiFi throughout the property. Guests can use a bar.\n\nGuest rooms in the hotel are equipped with a coffee machine. At Hotel Jansen Amsterdam Bajeskwartier, each room includes a private bathroom with free toiletries and a hairdryer.\n\nJohan Cruijff Arena is 3.5 miles from the accommodation, while Heineken Experience is 3.7 miles away. Schiphol Airport is 10 miles from the property.",
+  "reviewScore": 8.3,
+  "reviewCount": 2974,
+  "reviewScoreWord": "Very Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -125,29 +114,14 @@
   ]
  },
  {
-  "property_id": 9367966,
-  "property_name": "9367966",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 26263,
-  "property_name": "26263",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 26263,
+  "description": "This unique hotel offers modern rooms with mood lighting, free Wi-Fi and a flat-screen TV with free on-demand films. CitizenM Amsterdam South includes designer lounges and is 2461 feet from the RAI Conference Center.\n\nEach room at citizenM Amsterdam South has wall-to-wall windows and an extra-large bed with luxurious linen. With the room iPad, or the free citizenM app, all guests can control room lights, black-out blinds, curtains, temperature, as well as TV and radio channels. They can also stream from their own Netflix, Prime or Disney+ accounts (and many others), by connecting their phone, tablet or laptop to the TV via Chromecast (at no extra charge). The bathroom facilities consist of a transparent pod with a rain shower in the room.\n\nAmsterdam Zuid Railway Station is a 5-minute walk from citizenM hotel. The Prinses Irenestraat tram stop is only 427 feet from the hotel. It offers direct connections to the city center including Dam Square in 25 minutes and Central Station in 30 minutes.\n\nIn the many living rooms at the hotel guests can make use of iMac computers and free printing facilities. Each of these rooms features a different ambiance suitable for working, relaxing or meeting with friends.\n\nSandwiches, sushi and warm meals are available at canteenM. Freshly prepared coffee is also served by the in-house baristas. During the evening guests can enjoy exotic cocktails, draft beers and champagne at the bar.\n\nAn breakfast buffet is available each morning at the property.\n\nFree high speed WiFi is available throughout the property.",
+  "reviewScore": 8.7,
+  "reviewCount": 5470,
+  "reviewScoreWord": "Excellent",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -197,29 +171,14 @@
   ]
  },
  {
-  "property_id": 26263,
-  "property_name": "26263",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 1926560,
-  "property_name": "1926560",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 1926560,
+  "description": "The Ruby Emma Hotel Amsterdam is located alongside the Amstel river in Amsterdam. This hotel combines luxury, technology and sustainability in a living building shaped by nature. Free WiFi is offered throughout the property.\n\nAll rooms are designed with floor-to-ceiling windows, a flat-screen TV with AirPlay and an iPad to control lighting and heating. The private bathroom offers a choice of Ruby Care products.\n\nEach aspect of the property has been designed to reduce environmental impact.\n\nAmsterdam Arena is 10-minutes from Ruby Emma Hotel Amsterdam, while Heineken Experience is 1.8 mi from the property. The nearest airport is Schiphol Airport, 6.8 mi from Ruby Emma Hotel Amsterdam.",
+  "reviewScore": 8.7,
+  "reviewCount": 7971,
+  "reviewScoreWord": "Excellent",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -269,29 +228,14 @@
   ]
  },
  {
-  "property_id": 1926560,
-  "property_name": "1926560",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 7060204,
-  "property_name": "7060204",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 7060204,
+  "description": "Stay in the heart of Amsterdam.\nFeaturing a fitness center, a terrace as well as a bar, Inntel Hotels Amsterdam Landmark is located in the center of Amsterdam, 1.1 miles from Artis Zoo. Among the facilities at this property are room service and a 24-hour front desk, along with free WiFi throughout the property. Certain rooms at the property include a balcony with a city view.\n\nAt the hotel, each room is equipped with a desk.\n\nGuests at Inntel Hotels Amsterdam Landmark can enjoy a buffet breakfast. At the accommodation you'll find a restaurant serving Dutch and French cuisine. Vegetarian, dairy-free and halal options can also be requested.\n\nInntel Hotels Amsterdam Landmark offers 4-star accommodations with an indoor pool, sauna and hammam. The area is popular for cycling, and bike rental is available at the hotel.\n\nRembrandt House is 2.2 miles from Inntel Hotels Amsterdam Landmark, while Dutch National Opera \u0026 Ballet is 2.2 miles away. Schiphol Airport is 11 miles from the property.",
+  "reviewScore": 8.1,
+  "reviewCount": 12821,
+  "reviewScoreWord": "Very Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -341,29 +285,14 @@
   ]
  },
  {
-  "property_id": 7060204,
-  "property_name": "7060204",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 2593669,
-  "property_name": "2593669",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 2593669,
+  "description": "Located 10 minutes by metro from the city center, Via Amsterdam is a design-led hybrid hostel and hotel with street art and urban design featured throughout the building.The property located in the Bijlmermeer district, offers free WiFi and  a 24-hour front desk.\n\nFeaturing a private bathroom, rooms at Via Amsterdam also boast a city view. Guest have acces to a spacious shared kitchen.\n\nA continental breakfast is available every morning at the accommodations. At Via Amsterdam you will find a restaurant serving International cuisine. Vegetarian, dairy-free and gluten-free options can also be requested.\n\nBike rental, a cinema room and relaxing areas are available at Via Amsterdam.\n\nDam Square is 4 mi from Via Amsterdam while Museum Square is 3.7 mi away. The closest airport, Schiphol Airport is 7.5 mi  from the accommodations. The Johan Cruijff Arena is located at 1.2 mi from Via Amsterdam.",
+  "reviewScore": 8,
+  "reviewCount": 17401,
+  "reviewScoreWord": "Very Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -413,29 +342,14 @@
   ]
  },
  {
-  "property_id": 2593669,
-  "property_name": "2593669",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 2570375,
-  "property_name": "2570375",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 2570375,
+  "description": "Offering free WiFi , Joy Hotel is located in Amsterdam, 0.7 mi from Johan Cruijff Arena. 5.6 mi from Amsterdam RAI, the property is also 6.2 mi away from Heineken Experience. Local points of interest like Dutch National Opera \u0026 Ballet and Royal Theater Carré are reachable within 6.2 mi and 6.2 mi, respectively.\n\nA buffet breakfast is served daily at the property.\n\nSpeaking Arabic, English, and French staff are always on hand to help at the reception.\n\nMuseum of Bags and Purses Hendrikje is 6.2 mi from the hotel, while Rembrandtplein is 6.8 mi away. The nearest airport is Schiphol Airport, 13 mi from the property.",
+  "reviewScore": 7.5,
+  "reviewCount": 8918,
+  "reviewScoreWord": "Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -485,29 +399,14 @@
   ]
  },
  {
-  "property_id": 2570375,
-  "property_name": "2570375",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 171124,
-  "property_name": "171124",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 171124,
+  "description": "Hotel Casa Amsterdam is a modern hotel offering a bar, rooftop terrace (only opens during the summertime) and an in-house restaurant. It features underground on-site parking and is only 984 feet from Amsterdam Amstel Railway Station and Amstel Metro. This is the first hotel in Amsterdam to achieve a 3-star Superior award this year.\n\nEach modern room has a flat-screen TV with several interactive functions. Extra long beds, a work desk and refrigerator are also provided as standard in the rooms at Hotel Casa Amsterdam. During the summer 30 different craft beers and easy bites are served on the roof terrace.\n\nAmstelstation tram and metro stop are less than a 5-minute walk from Hotel Casa Amsterdam and offers connections to the Museum Square, the city center and Waterlooplein Square. The hotel offers bicycle rental and packed lunch services.\n\nThe EAST restaurant serves local and seasonal dishes and has a cocktail bar. It also features a coffee bar.",
+  "reviewScore": 8.9,
+  "reviewCount": 11932,
+  "reviewScoreWord": "Excellent",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -557,29 +456,14 @@
   ]
  },
  {
-  "property_id": 171124,
-  "property_name": "171124",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 1324648,
-  "property_name": "1324648",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 1324648,
+  "description": "ClinkNOORD is located in Noord area, just across the IJ River and within 10 minutes from the back of Amsterdam Centraal Station. The ferry ride is free and available 24/7. ClinkNOORD Hostel offers free Wi-Fi. A 24-hour front desk is available at the property.\n\nAccommodations includes private rooms, family friendly rooms and dormitories with city and river views. The property offers an atrium, lounge areas, a cafe and a library.\n\nA breakfast buffet is available in the accommodations. Guests can also enjoy hot and cold beverages.\n\nRoyal Palace Amsterdam is 0.9 mi from ClinkNOORD Hostel, while Dam Square is 0.9 mi away.",
+  "reviewScore": 8,
+  "reviewCount": 17367,
+  "reviewScoreWord": "Very Good",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -629,29 +513,14 @@
   ]
  },
  {
-  "property_id": 1324648,
-  "property_name": "1324648",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
-  ]
- },
- {
-  "property_id": 7886254,
-  "property_name": "7886254",
-  "image_type": "hotel_photos",
-  "image_urls": [
+  "id": 0,
+  "propertyId": 7886254,
+  "description": "Located in Amsterdam, 2.3 miles from A'DAM Lookout, Tribe Amsterdam City has accommodations with a fitness center, private parking, a shared lounge and a bar. This 4-star hotel offers a 24-hour front desk, luggage storage space and free WiFi. The hotel has family rooms.\n\nAt the hotel all rooms have air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, free toiletries and a hairdryer. All rooms will provide guests with a desk and a coffee machine.\n\nA buffet, à la carte or continental breakfast is available at the property.\n\nRembrandt House is 3 miles from Tribe Amsterdam City, while Artis Zoo is 3 miles from the property. Schiphol Airport is 16 miles away.",
+  "reviewScore": 9,
+  "reviewCount": 7703,
+  "reviewScoreWord": "Wonderful",
+  "imageType": "hotel_photos",
+  "imageUrls": [
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580276956.jpg?k=97a48685a68d838b9bb0b6402952d28b5c419fa42b1551f0a6b11fc674959e70\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277035.jpg?k=4e5d137dd24e0f1a316b804d1f93bdce1b389b423af8e95fa499f53c41c2c402\u0026o=\u0026hp=1",
@@ -698,25 +567,6 @@
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277028.jpg?k=4b9e1e09e2627234fa7b924b36576d0aa20d76563919e57b1eac2d5828ffb083\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/580277027.jpg?k=27bf7a8bb9ea815a10b5fd5b46a6937fb53323acbfbd0a47a0f7a01aa0941f18\u0026o=\u0026hp=1",
    "https://cf.bstatic.com/xdata/images/hotel/max200/509364564.jpg?k=6b7078ee7567cda8eb1c79bdd4b8a837cb01f13dcfcfe838b26fd4bd933461df\u0026o=\u0026hp=1"
-  ]
- },
- {
-  "property_id": 7886254,
-  "property_name": "7886254",
-  "image_type": "room_photos",
-  "image_urls": [
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704675.jpg?k=9f9a118a5fd0cd6c20888d77e5a781f2efc48ad0311d91f42491e3c53a54e607\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591492.jpg?k=d2b62c25d1326a1e80e3c595306341c317d7a4503a3aa530c3a5a8d6bfb011f9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/508704651.jpg?k=77e0a1ef1c328bca9795cc326ba2758c549c8fcd934e46de12697a8f057bf5a0\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620592739.jpg?k=b88c5dc7348de15ace8d39f54a8871c53aca7585e5159bd5777bd95f0cd8eb9b\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355991.jpg?k=d79f6e052a411d8419e059c9ff7fab565043f733b15eb20f74de7b8c9c9c5d33\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355988.jpg?k=5316f727a1a94ce88b28a6c528df3704a031dbd241323d03f156c2b3635f1335\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509355990.jpg?k=a7879748e999c892e88e02b4e5a113d2c0e96f16a26f919e720273be80c59dc9\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509358916.jpg?k=bf5f52ba26fc344e12920ccda62820612c554384769da8edac7eacbdd3aadb53\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356296.jpg?k=ae2023b332a1028b89d4fe168652717262a956c749687ed1b859b4b869f26a76\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/509356294.jpg?k=5c4a0b28c5c5d8165892dffefc9a9c650da50041a4a4f1dc8c094a9367f35244\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591167.jpg?k=5820503ef486e97e49d79916eb78a17dd26c88c0f7951c031227899445f9bbe8\u0026o=",
-   "https://cf.bstatic.com/xdata/images/hotel/max200/620591366.jpg?k=e1b8c182c7bb5821b3a438b180e7a5ffa2beb490bee7607e31e56ed4accd4826\u0026o="
   ]
  }
 ]

@@ -7,6 +7,6 @@ type PropertyImageResponse struct {
 type PropertyImage struct {
     PropertyID   int      `json:"property_id"`
     PropertyName string   `json:"property_name"`
-    Type         string   `json:"type"`
-    URLs         []string `json:"urls"`
+    ImageType    string   `json:"image_type"`
+    ImageURLs    []string `json:"image_urls"`
 }

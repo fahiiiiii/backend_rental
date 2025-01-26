@@ -7,33 +7,61 @@ import (
     "os"
     "path/filepath"
     "time"
-    "golang.org/x/time/rate"
     "backend_rental/models"
     "backend_rental/utils"
 )
 
 type PropertyService struct {
-    RateLimiter *rate.Limiter
+    RateLimiter *utils.RateLimiterConfig
     ApiClient   *utils.ApiClient
     StoragePath string
     CitiesPath  string
 }
 
 func NewPropertyService() *PropertyService {
-    limiter := rate.NewLimiter(rate.Every(6*time.Second), 10)
-    
-    dataDir := "data"
-    if err := os.MkdirAll(dataDir, 0755); err != nil {
-        fmt.Printf("Error creating data directory: %v\n", err)
-    }
-    
     return &PropertyService{
-        RateLimiter: limiter,
+        RateLimiter: &utils.LenientRateLimiter,
         ApiClient:   utils.NewApiClient(),
-        StoragePath: filepath.Join(dataDir, "properties.json"),
-        CitiesPath:  filepath.Join(dataDir, "cities.json"),
+        StoragePath: filepath.Join("data", "properties.json"),
+        CitiesPath:  filepath.Join("data", "cities.json"),
     }
 }
+// package services
+
+// import (
+//     "context"
+//     "encoding/json"
+//     "fmt"
+//     "os"
+//     "path/filepath"
+//     "time"
+//     "golang.org/x/time/rate"
+//     "backend_rental/models"
+//     "backend_rental/utils"
+// )
+
+// type PropertyService struct {
+//     RateLimiter *rate.Limiter
+//     ApiClient   *utils.ApiClient
+//     StoragePath string
+//     CitiesPath  string
+// }
+
+// func NewPropertyService() *PropertyService {
+//     limiter := rate.NewLimiter(rate.Every(6*time.Second), 10)
+    
+//     dataDir := "data"
+//     if err := os.MkdirAll(dataDir, 0755); err != nil {
+//         fmt.Printf("Error creating data directory: %v\n", err)
+//     }
+    
+//     return &PropertyService{
+//         RateLimiter: limiter,
+//         ApiClient:   utils.NewApiClient(),
+//         StoragePath: filepath.Join(dataDir, "properties.json"),
+//         CitiesPath:  filepath.Join(dataDir, "cities.json"),
+//     }
+// }
 
 func (s *PropertyService) LoadCities() ([]models.Location, error) {
     data, err := os.ReadFile(s.CitiesPath)
@@ -49,6 +77,52 @@ func (s *PropertyService) LoadCities() ([]models.Location, error) {
 
     return cities, nil
 }
+// func (s *PropertyService) FetchPropertiesForCities() ([]models.Property, error) {
+//     cities, err := s.LoadCities()
+//     if err != nil {
+//         return nil, err
+//     }
+
+//     var allProperties []models.Property
+//     ctx := context.Background()
+//     checkIn := time.Now().AddDate(0, 0, 30).Format("2006-01-02")
+//     checkOut := time.Now().AddDate(0, 0, 31).Format("2006-01-02")
+
+//     for _, city := range cities {
+//         startWait := time.Now()
+//         err := s.RateLimiter.Wait(ctx)
+//         waitDuration := time.Since(startWait)
+        
+//         fmt.Printf("Rate limiter wait for %s: %v\n", city.CityName, waitDuration)
+        
+//         if err != nil {
+//             return nil, fmt.Errorf("rate limiter error: %v", err)
+//         }
+
+//         response, err := s.ApiClient.FetchPropertiesForCity(city.CityID, checkIn, checkOut)
+//         if err != nil {
+//             fmt.Printf("Error fetching properties for %s: %v\n", city.CityName, err)
+//             continue
+//         }
+
+//         fmt.Printf("Fetched %d properties for %s\n", len(response.Data), city.CityName)
+
+//         for _, property := range response.Data {
+//             property.CityID = city.CityID
+//             allProperties = append(allProperties, property)
+//         }
+//     }
+
+//     fmt.Printf("Total properties fetched: %d\n", len(allProperties))
+
+//     // Save to file
+//     err = s.SavePropertiesToFile(allProperties)
+//     if err != nil {
+//         fmt.Printf("Warning: Failed to save properties: %v\n", err)
+//     }
+
+//     return allProperties, nil
+// }
 func (s *PropertyService) FetchPropertiesForCities() ([]models.Property, error) {
     cities, err := s.LoadCities()
     if err != nil {
@@ -60,13 +134,12 @@ func (s *PropertyService) FetchPropertiesForCities() ([]models.Property, error) 
     checkIn := time.Now().AddDate(0, 0, 30).Format("2006-01-02")
     checkOut := time.Now().AddDate(0, 0, 31).Format("2006-01-02")
 
+    // Create a rate limiter from the configuration
+    limiter := utils.NewRateLimiter(s.RateLimiter.Limit, s.RateLimiter.BurstSize)
+
     for _, city := range cities {
-        startWait := time.Now()
-        err := s.RateLimiter.Wait(ctx)
-        waitDuration := time.Since(startWait)
-        
-        fmt.Printf("Rate limiter wait for %s: %v\n", city.CityName, waitDuration)
-        
+        // Use the centralized rate limiter wait method
+        err := utils.WaitForRateLimit(ctx, limiter)
         if err != nil {
             return nil, fmt.Errorf("rate limiter error: %v", err)
         }
@@ -95,7 +168,6 @@ func (s *PropertyService) FetchPropertiesForCities() ([]models.Property, error) 
 
     return allProperties, nil
 }
-
 func (s *PropertyService) SavePropertiesToFile(properties []models.Property) error {
     data, err := json.MarshalIndent(properties, "", "    ")
     if err != nil {

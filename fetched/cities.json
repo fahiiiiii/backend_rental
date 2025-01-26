@@ -37,9 +37,9 @@
     },
     {
         "id": 0,
-        "city_name": "Bangkok",
-        "city_id": "eyJjaXR5X25hbWUiOiJCYW5na29rIiwiY291bnRyeSI6IlRoYWlsYW5kIiwiZGVzdF9pZCI6IjIxIiwiZGVzdF90eXBlIjoiYWlycG9ydCJ9",
-        "country": "Thailand"
+        "city_name": "Berlin",
+        "city_id": "eyJjaXR5X25hbWUiOiJCZXJsaW4iLCJjb3VudHJ5IjoiR2VybWFueSIsImRlc3RfaWQiOiItMTc0NjQ0MyIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
+        "country": "Germany"
     },
     {
         "id": 0,
@@ -49,15 +49,15 @@
     },
     {
         "id": 0,
-        "city_name": "Budapest",
-        "city_id": "eyJjaXR5X25hbWUiOiJCdWRhcGVzdCIsImNvdW50cnkiOiJIdW5nYXJ5IiwiZGVzdF9pZCI6Ii04NTA1NTMiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
-        "country": "Hungary"
+        "city_name": "Bangkok",
+        "city_id": "eyJjaXR5X25hbWUiOiJCYW5na29rIiwiY291bnRyeSI6IlRoYWlsYW5kIiwiZGVzdF9pZCI6IjIxIiwiZGVzdF90eXBlIjoiYWlycG9ydCJ9",
+        "country": "Thailand"
     },
     {
         "id": 0,
-        "city_name": "Berlin",
-        "city_id": "eyJjaXR5X25hbWUiOiJCZXJsaW4iLCJjb3VudHJ5IjoiR2VybWFueSIsImRlc3RfaWQiOiItMTc0NjQ0MyIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
-        "country": "Germany"
+        "city_name": "Bologna",
+        "city_id": "eyJjaXR5X25hbWUiOiJCb2xvZ25hIiwiY291bnRyeSI6Ikl0YWx5IiwiZGVzdF9pZCI6Ii0xMTE3NDIiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "country": "Italy"
     },
     {
         "id": 0,
@@ -205,6 +205,12 @@
     },
     {
         "id": 0,
+        "city_name": "Hong Kong",
+        "city_id": "eyJjaXR5X25hbWUiOiJIb25nIEtvbmciLCJjb3VudHJ5IjoiSG9uZyBLb25nIiwiZGVzdF9pZCI6Ii0xMzUzMTQ5IiwiZGVzdF90eXBlIjoiY2l0eSJ9",
+        "country": "Hong Kong"
+    },
+    {
+        "id": 0,
         "city_name": "Hakone",
         "city_id": "eyJjaXR5X25hbWUiOiJIYWtvbmUiLCJjb3VudHJ5IjoiSmFwYW4iLCJkZXN0X2lkIjoiLTIyODIzMyIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
         "country": "Japan"
@@ -220,12 +226,6 @@
         "city_name": "Phuket Town",
         "city_id": "eyJjaXR5X25hbWUiOiJQaHVrZXQgVG93biIsImNvdW50cnkiOiJUaGFpbGFuZCIsImRlc3RfaWQiOiItMzI1MzM0MiIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
         "country": "Thailand"
-    },
-    {
-        "id": 0,
-        "city_name": "Hamburg",
-        "city_id": "eyJjaXR5X25hbWUiOiJIYW1idXJnIiwiY291bnRyeSI6Ikdlcm1hbnkiLCJkZXN0X2lkIjoiLTE3ODU0MzQiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
-        "country": "Germany"
     },
     {
         "id": 0,
@@ -391,12 +391,6 @@
     },
     {
         "id": 0,
-        "city_name": "Okayama",
-        "city_id": "eyJjaXR5X25hbWUiOiJPa2F5YW1hIiwiY291bnRyeSI6IkphcGFuIiwiZGVzdF9pZCI6Ii0yNDAyMTMiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
-        "country": "Japan"
-    },
-    {
-        "id": 0,
         "city_name": "London",
         "city_id": "eyJjaXR5X25hbWUiOiJMb25kb24iLCJjb3VudHJ5IjoiVW5pdGVkIEtpbmdkb20iLCJkZXN0X2lkIjoiLTI2MDE4ODkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
         "country": "United Kingdom"
@@ -406,6 +400,12 @@
         "city_name": "Porto",
         "city_id": "eyJjaXR5X25hbWUiOiJQb3J0byIsImNvdW50cnkiOiJQb3J0dWdhbCIsImRlc3RfaWQiOiItMjE3MzA4OCIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
         "country": "Portugal"
+    },
+    {
+        "id": 0,
+        "city_name": "New York",
+        "city_id": "eyJjaXR5X25hbWUiOiJOZXcgWW9yayIsImNvdW50cnkiOiJVbml0ZWQgU3RhdGVzIiwiZGVzdF9pZCI6IjIwMDg4MzI1IiwiZGVzdF90eXBlIjoiY2l0eSJ9",
+        "country": "United States"
     },
     {
         "id": 0,
@@ -427,9 +427,9 @@
     },
     {
         "id": 0,
-        "city_name": "Phuket Town",
-        "city_id": "eyJjaXR5X25hbWUiOiJQaHVrZXQgVG93biIsImNvdW50cnkiOiJUaGFpbGFuZCIsImRlc3RfaWQiOiItMzI1MzM0MiIsImRlc3RfdHlwZSI6ImNpdHkifQ==",
-        "country": "Thailand"
+        "city_name": "Perth",
+        "city_id": "eyJjaXR5X25hbWUiOiJQZXJ0aCIsImNvdW50cnkiOiJBdXN0cmFsaWEiLCJkZXN0X2lkIjoiLTE1OTQ2NzUiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+        "country": "Australia"
     },
     {
         "id": 0,
@@ -571,9 +571,9 @@
     },
     {
         "id": 0,
-        "city_name": "Uluwatu",
-        "city_id": "eyJjaXR5X25hbWUiOiJVbHV3YXR1IiwiY291bnRyeSI6IkluZG9uZXNpYSIsImRlc3RfaWQiOiIzMjU2ODkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
-        "country": "Indonesia"
+        "city_name": "Udaipur",
+        "city_id": "eyJjaXR5X25hbWUiOiJVZGFpcHVyIiwiY291bnRyeSI6IkluZGlhIiwiZGVzdF9pZCI6Ii0yMTEzNjM1IiwiZGVzdF90eXBlIjoiY2l0eSJ9",
+        "country": "India"
     },
     {
         "id": 0,
