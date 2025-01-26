@@ -1,0 +1,14 @@
+appname = backend_rental
+httpport = 8080
+runmode = dev
+autorender = false
+copyrequestbody = true
+EnableDocs = true
+RAPIDAPI_KEY =your_rapidapi_key
+[db]
+host = your_db_host
+port = 5432
+user = db_username
+password = password
+name = your_db_name
+sslmode = disable
