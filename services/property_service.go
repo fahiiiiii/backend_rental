@@ -26,42 +26,7 @@ func NewPropertyService() *PropertyService {
         CitiesPath:  filepath.Join("data", "cities.json"),
     }
 }
-// package services
 
-// import (
-//     "context"
-//     "encoding/json"
-//     "fmt"
-//     "os"
-//     "path/filepath"
-//     "time"
-//     "golang.org/x/time/rate"
-//     "backend_rental/models"
-//     "backend_rental/utils"
-// )
-
-// type PropertyService struct {
-//     RateLimiter *rate.Limiter
-//     ApiClient   *utils.ApiClient
-//     StoragePath string
-//     CitiesPath  string
-// }
-
-// func NewPropertyService() *PropertyService {
-//     limiter := rate.NewLimiter(rate.Every(6*time.Second), 10)
-    
-//     dataDir := "data"
-//     if err := os.MkdirAll(dataDir, 0755); err != nil {
-//         fmt.Printf("Error creating data directory: %v\n", err)
-//     }
-    
-//     return &PropertyService{
-//         RateLimiter: limiter,
-//         ApiClient:   utils.NewApiClient(),
-//         StoragePath: filepath.Join(dataDir, "properties.json"),
-//         CitiesPath:  filepath.Join(dataDir, "cities.json"),
-//     }
-// }
 
 func (s *PropertyService) LoadCities() ([]models.Location, error) {
     data, err := os.ReadFile(s.CitiesPath)

@@ -19,15 +19,3 @@ func init() {
     orm.RegisterModel(new(RentalProperty))
 }
 
-
-// package models
-
-// type RentalProperty struct {
-// 	CityID       string   `json:"cityId"`
-// 	PropertyID   int64    `json:"propertyId"`
-// 	Name         string   `json:"name"`
-// 	PropertyType string   `json:"propertyType"`
-// 	Bedrooms     int      `json:"bedrooms"`
-// 	Bathrooms    int      `json:"bathrooms"`
-// 	Amenities    []string `json:"amenities"`
-// }
