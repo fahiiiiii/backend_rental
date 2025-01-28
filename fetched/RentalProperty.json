@@ -1,0 +1,92 @@
+[
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 3226748,
+  "name": "Bunk Hotel Amsterdam",
+  "propertyType": "Hotels",
+  "bedrooms": 70,
+  "bathrooms": 70,
+  "amenities": "[\"Non-smoking rooms\",\"Restaurant\",\"Wifi in all areas\",\"Private Parking\",\"Parking on site\",\"Family rooms\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 9367966,
+  "name": "Hotel Jansen Amsterdam Bajeskwartier",
+  "propertyType": "Hotels",
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Restaurant\",\"Wifi in all areas\",\"Private Parking\",\"Parking on site\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 26263,
+  "name": "citizenM Amsterdam South",
+  "propertyType": "Hotels",
+  "bedrooms": 6,
+  "bathrooms": 6,
+  "amenities": "[\"Non-smoking rooms\",\"Restaurant\",\"Wifi in all areas\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 1926560,
+  "name": "Ruby Emma Hotel Amsterdam",
+  "propertyType": "Hotels",
+  "bedrooms": 36,
+  "bathrooms": 36,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Wifi in all areas\",\"Free Wifi\",\"Parking\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 7060204,
+  "name": "Inntel Hotels Amsterdam Landmark",
+  "propertyType": "Hotels",
+  "bedrooms": 32,
+  "bathrooms": 32,
+  "amenities": "[\"1 swimming pool\",\"Non-smoking rooms\",\"Fitness center\",\"Room service\",\"Restaurant\",\"Wifi in all areas\",\"Free Wifi\",\"Parking\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 2593669,
+  "name": "Via Amsterdam",
+  "propertyType": "Hostels",
+  "bedrooms": 22,
+  "bathrooms": 22,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Restaurant\",\"Wifi in all areas\",\"Private Parking\",\"Parking on site\",\"Family rooms\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 2570375,
+  "name": "Joy Hotel",
+  "propertyType": "Hotels",
+  "bedrooms": 12,
+  "bathrooms": 12,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Wifi in all areas\",\"Private Parking\",\"Parking on site\",\"Family rooms\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 171124,
+  "name": "Hotel Casa Amsterdam",
+  "propertyType": "Hotels",
+  "bedrooms": 11,
+  "bathrooms": 11,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Restaurant\",\"Wifi in all areas\",\"Private Parking\",\"Family rooms\",\"Free Wifi\",\"Parking\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 1324648,
+  "name": "ClinkNOORD Hostel",
+  "propertyType": "Hostels",
+  "bedrooms": 20,
+  "bathrooms": 20,
+  "amenities": "[\"Non-smoking rooms\",\"Facilities for disabled guests\",\"Family rooms\",\"Free Wifi\"]"
+ },
+ {
+  "cityId": "eyJjaXR5X25hbWUiOiJBbXN0ZXJkYW0iLCJjb3VudHJ5IjoiTmV0aGVybGFuZHMiLCJkZXN0X2lkIjoiLTIxNDA0NzkiLCJkZXN0X3R5cGUiOiJjaXR5In0=",
+  "propertyId": 7886254,
+  "name": "Tribe Amsterdam City",
+  "propertyType": "Hotels",
+  "bedrooms": 45,
+  "bathrooms": 45,
+  "amenities": "[\"Non-smoking rooms\",\"Fitness center\",\"Wifi in all areas\",\"Private Parking\",\"Parking on site\",\"Family rooms\",\"Free Wifi\"]"
+ }
+]
